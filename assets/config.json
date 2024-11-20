@@ -1,0 +1,20 @@
+{
+    "other": {
+        "window_title": "Sorting Algorithm",
+        "font_path": "../assets/fonts/Ubuntu-Regular.ttf",
+        "font_size": 12,
+        "gap_width": 1
+    },
+    "screen_resolution": {
+        "width": 1280,
+        "height": 720
+    },
+    "sorting_variables": {
+        "size": 640,
+        "min_value": 1,
+        "max_value": 100
+    },
+    "timing_constants": {
+        "refresh_rate": 20
+    }
+}
